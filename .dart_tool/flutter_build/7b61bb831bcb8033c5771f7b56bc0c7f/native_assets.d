@@ -1,0 +1,1 @@
+ C:\\Users\\HP\\Downloads\\flutter\\instagram\\instagram_app\\.dart_tool\\flutter_build\\7b61bb831bcb8033c5771f7b56bc0c7f\\native_assets.yaml: 
