@@ -1,16 +1,40 @@
-# instagram_clone
+# Instagram App
 
-A new Flutter project.
+![App Screenshot 1](https://i.imgur.com/FIddRs8.png))
+![App Screenshot 2](https://i.imgur.com/Nlihsx9.png)
+![App Screenshot 3](https://i.imgur.com/0t4rdw0.png)
 
-## Getting Started
+A simple Instagram-like mobile application developed using **Flutter** and **Firebase**.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **User Authentication**
+  - Sign up and log in with Firebase.
+  
+- **Profile Management**
+  - Create and edit user profiles.
+  - Upload and display profile pictures.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Post Creation**
+  - Upload photos with captions.
+  - Real-time photo updates.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Feed**
+  - Browse posts from all users.
+  - Like and comment on posts.
+
+- **Real-time Updates**
+  - Instant updates for new posts, likes, and comments using Firebase's real-time capabilities.
+
+## Technologies
+
+- **Frontend:** Flutter
+- **Backend:** Firebase
+  - **Authentication:** Firebase Authentication
+  - **Database:** Cloud Firestore
+  - **Storage:** Firebase Storage
+
+## Link download apk
+  ```bash
+  https://drive.google.com/file/d/1qfuceE-AbRGKOSjshWZ21vauKPv8Pjpm/view
+
